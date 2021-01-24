@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/IamOneOfMany/contact-form/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/IamOneOfMany/contact-form/static/js/main.8930160e.chunk.js",
+    "main.js.map": "/IamOneOfMany/contact-form/static/js/main.8930160e.chunk.js.map",
+    "runtime-main.js": "/IamOneOfMany/contact-form/static/js/runtime-main.ffe0828c.js",
+    "runtime-main.js.map": "/IamOneOfMany/contact-form/static/js/runtime-main.ffe0828c.js.map",
+    "static/css/2.150d169a.chunk.css": "/IamOneOfMany/contact-form/static/css/2.150d169a.chunk.css",
+    "static/js/2.6577ffa0.chunk.js": "/IamOneOfMany/contact-form/static/js/2.6577ffa0.chunk.js",
+    "static/js/2.6577ffa0.chunk.js.map": "/IamOneOfMany/contact-form/static/js/2.6577ffa0.chunk.js.map",
+    "index.html": "/IamOneOfMany/contact-form/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/IamOneOfMany/contact-form/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/IamOneOfMany/contact-form/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.6577ffa0.chunk.js.LICENSE.txt": "/IamOneOfMany/contact-form/static/js/2.6577ffa0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ffe0828c.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.6577ffa0.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.8930160e.chunk.js"
+  ]
+}
